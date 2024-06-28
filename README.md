@@ -18,7 +18,7 @@ Questo progetto è una simulazione del gioco del bowling, sviluppato per fornire
 ## Tecnologie Utilizzate
 
 * **Linguaggi di Programmazione:** JavaScript, HTML5 per la struttura e CSS3 per lo stile
-* **Framework e Librerie:** Bootstrap per il design reattivo.
+* **Framework e Librerie:** Bootstrap per un design reattivo.
 
 
 *Per qualsiasi domanda o suggerimento, non esitare a contattarmi all'indirizzo email: gianlucacecere1@gmail.com*
